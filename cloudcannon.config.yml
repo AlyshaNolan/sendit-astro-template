@@ -16,7 +16,6 @@ collections_config:
     disable_add_folder: true
     _enabled_editors:
       - content
-      - visual
     add_options:
       - name: Add New Post
         schema: default
