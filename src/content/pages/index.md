@@ -24,8 +24,7 @@ content_blocks:
     title: Scale your
     title_suffix: Business
     description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+      We edit here project.
     alternate_style: false
     numbers:
       - prefix: $
@@ -93,7 +92,7 @@ content_blocks:
     title: Build relationships that
     title_suffix: last
     description: >-
-      Customers from around the world are building game changing email marketing
+      Everyone from around the world are building game changing email marketing
       campaigns.
     slider:
       - image: /images/testimonial/logo-2.jpg
