@@ -24,8 +24,7 @@ content_blocks:
     title: Scale your
     title_suffix: Business
     description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+      Change counter description
     alternate_style: false
     numbers:
       - prefix: $
@@ -93,8 +92,7 @@ content_blocks:
     title: Build relationships that
     title_suffix: last
     description: >-
-      Customers from around the world are building game changing email marketing
-      campaigns.
+      Change testimonial description
     slider:
       - image: /images/testimonial/logo-2.jpg
         image_alt: Profile photo of Pete Fish
