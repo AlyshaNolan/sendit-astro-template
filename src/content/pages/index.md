@@ -12,9 +12,7 @@ seo:
 content_blocks:
   - _bookshop_name: home/hero
     title: Beautiful email campaigns
-    description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
+    description: Make a change to the homepage hero description.
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:
@@ -23,8 +21,7 @@ content_blocks:
   - _bookshop_name: global/counter
     title: Scale your
     title_suffix: Business
-    description: >-
-      Change counter description
+    description: Change counter description
     alternate_style: false
     numbers:
       - prefix: $
@@ -48,12 +45,12 @@ content_blocks:
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
-    title: "Sendit "
+    title: 'Sendit '
     title_suffix: Features
-    remove_top_padding: true
     description: >-
       Our platform offers the most advanced features including automated email
       content creation, dynamic personalization, and customer segmentation.
+    remove_top_padding: true
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
@@ -91,8 +88,7 @@ content_blocks:
   - _bookshop_name: global/testimonial
     title: Build relationships that
     title_suffix: last
-    description: >-
-      Change testimonial description
+    description: Change testimonial description
     slider:
       - image: /images/testimonial/logo-2.jpg
         image_alt: Profile photo of Pete Fish
